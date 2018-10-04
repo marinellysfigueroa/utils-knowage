@@ -1,0 +1,97 @@
+the_year,month_of_year,store_name,store_city,store_state,store_country,account_description,amount_USD_fct
+2014,01,"Store 14","San Francisco",CA,USA,"General & Administration",6.99
+2014,01,"Store 14","San Francisco",CA,USA,"Information Systems",18.58
+2014,01,"Store 14","San Francisco",CA,USA,Lease,17.06
+2014,01,"Store 14","San Francisco",CA,USA,Marketing,30.74
+2014,02,"Store 14","San Francisco",CA,USA,"General & Administration",7.68
+2014,02,"Store 14","San Francisco",CA,USA,"Information Systems",16.40
+2014,02,"Store 14","San Francisco",CA,USA,Lease,16.96
+2014,02,"Store 14","San Francisco",CA,USA,Marketing,30.43
+2014,03,"Store 14","San Francisco",CA,USA,"General & Administration",6.85
+2014,03,"Store 14","San Francisco",CA,USA,"Information Systems",17.45
+2014,03,"Store 14","San Francisco",CA,USA,Lease,17.75
+2014,03,"Store 14","San Francisco",CA,USA,Marketing,28.88
+2014,04,"Store 14","San Francisco",CA,USA,"General & Administration",7.67
+2014,04,"Store 14","San Francisco",CA,USA,"Information Systems",18.62
+2014,04,"Store 14","San Francisco",CA,USA,Lease,18.47
+2014,04,"Store 14","San Francisco",CA,USA,Marketing,27.68
+2014,05,"Store 14","San Francisco",CA,USA,"General & Administration",7.22
+2014,05,"Store 14","San Francisco",CA,USA,"Information Systems",17.83
+2014,05,"Store 14","San Francisco",CA,USA,Lease,16.15
+2014,05,"Store 14","San Francisco",CA,USA,Marketing,26.36
+2014,06,"Store 14","San Francisco",CA,USA,"General & Administration",6.74
+2014,06,"Store 14","San Francisco",CA,USA,"Information Systems",17.40
+2014,06,"Store 14","San Francisco",CA,USA,Lease,16.52
+2014,06,"Store 14","San Francisco",CA,USA,Marketing,28.98
+2014,07,"Store 14","San Francisco",CA,USA,"General & Administration",7.08
+2014,07,"Store 14","San Francisco",CA,USA,"Information Systems",17.61
+2014,07,"Store 14","San Francisco",CA,USA,Lease,18.27
+2014,07,"Store 14","San Francisco",CA,USA,Marketing,29.13
+2014,08,"Store 14","San Francisco",CA,USA,"General & Administration",7.44
+2014,08,"Store 14","San Francisco",CA,USA,"Information Systems",16.46
+2014,08,"Store 14","San Francisco",CA,USA,Lease,18.83
+2014,08,"Store 14","San Francisco",CA,USA,Marketing,27.61
+2014,09,"Store 14","San Francisco",CA,USA,"General & Administration",6.79
+2014,09,"Store 14","San Francisco",CA,USA,"Information Systems",17.11
+2014,09,"Store 14","San Francisco",CA,USA,Lease,16.38
+2014,09,"Store 14","San Francisco",CA,USA,Marketing,30.92
+2014,10,"Store 14","San Francisco",CA,USA,"General & Administration",6.67
+2014,10,"Store 14","San Francisco",CA,USA,"Information Systems",16.73
+2014,10,"Store 14","San Francisco",CA,USA,Lease,16.62
+2014,10,"Store 14","San Francisco",CA,USA,Marketing,29.38
+2014,11,"Store 14","San Francisco",CA,USA,"General & Administration",6.64
+2014,11,"Store 14","San Francisco",CA,USA,"Information Systems",16.46
+2014,11,"Store 14","San Francisco",CA,USA,Lease,18.06
+2014,11,"Store 14","San Francisco",CA,USA,Marketing,28.74
+2014,12,"Store 14","San Francisco",CA,USA,"General & Administration",6.81
+2014,12,"Store 14","San Francisco",CA,USA,"Information Systems",16.20
+2014,12,"Store 14","San Francisco",CA,USA,Lease,17.50
+2014,12,"Store 14","San Francisco",CA,USA,Marketing,30.15
+2015,01,"Store 14","San Francisco",CA,USA,"General & Administration",6.37
+2015,01,"Store 14","San Francisco",CA,USA,"Information Systems",19.27
+2015,01,"Store 14","San Francisco",CA,USA,Lease,17.45
+2015,01,"Store 14","San Francisco",CA,USA,Marketing,27.83
+2015,02,"Store 14","San Francisco",CA,USA,"General & Administration",6.48
+2015,02,"Store 14","San Francisco",CA,USA,"Information Systems",17.77
+2015,02,"Store 14","San Francisco",CA,USA,Lease,18.86
+2015,02,"Store 14","San Francisco",CA,USA,Marketing,28.91
+2015,03,"Store 14","San Francisco",CA,USA,"General & Administration",6.94
+2015,03,"Store 14","San Francisco",CA,USA,"Information Systems",18.66
+2015,03,"Store 14","San Francisco",CA,USA,Lease,18.98
+2015,03,"Store 14","San Francisco",CA,USA,Marketing,30.02
+2015,04,"Store 14","San Francisco",CA,USA,"General & Administration",7.49
+2015,04,"Store 14","San Francisco",CA,USA,"Information Systems",17.06
+2015,04,"Store 14","San Francisco",CA,USA,Lease,18.92
+2015,04,"Store 14","San Francisco",CA,USA,Marketing,26.64
+2015,05,"Store 14","San Francisco",CA,USA,"General & Administration",7.46
+2015,05,"Store 14","San Francisco",CA,USA,"Information Systems",16.98
+2015,05,"Store 14","San Francisco",CA,USA,Lease,18.25
+2015,05,"Store 14","San Francisco",CA,USA,Marketing,29.02
+2015,06,"Store 14","San Francisco",CA,USA,"General & Administration",7.05
+2015,06,"Store 14","San Francisco",CA,USA,"Information Systems",17.81
+2015,06,"Store 14","San Francisco",CA,USA,Lease,18.61
+2015,06,"Store 14","San Francisco",CA,USA,Marketing,28.49
+2015,07,"Store 14","San Francisco",CA,USA,"General & Administration",6.51
+2015,07,"Store 14","San Francisco",CA,USA,"Information Systems",18.70
+2015,07,"Store 14","San Francisco",CA,USA,Lease,18.90
+2015,07,"Store 14","San Francisco",CA,USA,Marketing,29.95
+2015,08,"Store 14","San Francisco",CA,USA,"General & Administration",6.47
+2015,08,"Store 14","San Francisco",CA,USA,"Information Systems",17.11
+2015,08,"Store 14","San Francisco",CA,USA,Lease,19.23
+2015,08,"Store 14","San Francisco",CA,USA,Marketing,27.57
+2015,09,"Store 14","San Francisco",CA,USA,"General & Administration",6.44
+2015,09,"Store 14","San Francisco",CA,USA,"Information Systems",17.12
+2015,09,"Store 14","San Francisco",CA,USA,Lease,16.50
+2015,09,"Store 14","San Francisco",CA,USA,Marketing,28.25
+2015,10,"Store 14","San Francisco",CA,USA,"General & Administration",6.47
+2015,10,"Store 14","San Francisco",CA,USA,"Information Systems",18.38
+2015,10,"Store 14","San Francisco",CA,USA,Lease,15.99
+2015,10,"Store 14","San Francisco",CA,USA,Marketing,27.46
+2015,11,"Store 14","San Francisco",CA,USA,"General & Administration",6.68
+2015,11,"Store 14","San Francisco",CA,USA,"Information Systems",17.57
+2015,11,"Store 14","San Francisco",CA,USA,Lease,18.11
+2015,11,"Store 14","San Francisco",CA,USA,Marketing,27.15
+2015,12,"Store 14","San Francisco",CA,USA,"General & Administration",7.61
+2015,12,"Store 14","San Francisco",CA,USA,"Information Systems",16.86
+2015,12,"Store 14","San Francisco",CA,USA,Lease,16.11
+2015,12,"Store 14","San Francisco",CA,USA,Marketing,27.96
